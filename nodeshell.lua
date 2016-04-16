@@ -9,7 +9,7 @@
 --The firmware is burned to board with NodeMCU firmware programmer tool.
 --
 --BSD license is applied to nodeshell lib
---Author: Aixi Wang (szwax888@126.com)
+--Author: Aixi Wang (aixi.wang@hotmail.com)
 --
 --------------------------------------------------------
 --                version history
